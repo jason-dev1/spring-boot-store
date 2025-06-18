@@ -25,3 +25,5 @@ create table order_items
         foreign key (product_id) references products (id)
 );
 
+
+
